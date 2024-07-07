@@ -1,8 +1,6 @@
 # LeanHRPT Demod
 
-[![Build](https://github.com/Xerbo/LeanHRPT-Demod/actions/workflows/build.yml/badge.svg)](https://github.com/Xerbo/LeanHRPT-Demod/actions/workflows/build.yml)
-
-A demodulator for weather satellites. Also see [LeanHRPT Decode](https://github.com/Xerbo/LeanHRPT-Decode).
+A demodulator for weather satellites. Also see [LeanHRPT Decode](https://github.com/Xerbo/LeanHRPT-Decode). Unofficial branch for testing!
 
 ![Screenshot of LeanHRPT-Demod demodulating FengYun in realtime and outputting VCDUs](images/example.webp)
 
